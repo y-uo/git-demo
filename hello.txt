@@ -11,5 +11,5 @@ hello yaxin!!  hello git!!
 hello yaxin!!  hello git!!
 hello yaxin!!  hello git!! master test
 hello yaxin!!  hello git!!
-hello yaxin!!  hello git!!
+hello yaxin!!  hello git!! hot-fix test
 
